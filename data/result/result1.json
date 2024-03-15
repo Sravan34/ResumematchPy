@@ -1,0 +1,24 @@
+{
+"status":"success",
+"count": 3
+"metadata":{
+"confidenceScore": 0.8
+}
+"results":
+[
+{
+"id": 1
+"score": 0.8
+"path": "1.pdf"
+},
+{
+"id": 2
+"score": 0.75
+"path": "2.pdf"
+},
+{
+"id": 3
+"score": 0.66
+"path": "3.pdf"
+}
+]
